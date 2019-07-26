@@ -58,7 +58,7 @@
     },
     "articles": {
       "collection": "article",
-      "via": "user"
+      "via": "author"
     }
   }
 }

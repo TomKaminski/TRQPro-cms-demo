@@ -37,7 +37,7 @@
       "model": "category",
       "via": "articles"
     },
-    "user": {
+    "author": {
       "model": "user",
       "via": "articles",
       "plugin": "users-permissions"
