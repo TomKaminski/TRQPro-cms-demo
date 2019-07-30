@@ -29,9 +29,10 @@
       "plugin": "upload",
       "required": true
     },
-    "tag": {
-      "model": "tag",
-      "via": "articles"
+    "tags": {
+      "collection": "tag",
+      "via": "articles",
+      "dominant": true
     },
     "category": {
       "model": "category",

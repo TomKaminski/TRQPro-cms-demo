@@ -22,7 +22,7 @@
     },
     "articles": {
       "collection": "article",
-      "via": "tag"
+      "via": "tags"
     }
   }
 }
