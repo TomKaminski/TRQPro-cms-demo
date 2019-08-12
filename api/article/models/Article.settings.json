@@ -42,6 +42,9 @@
       "model": "user",
       "via": "articles",
       "plugin": "users-permissions"
+    },
+    "metadata": {
+      "type": "json"
     }
   }
 }
